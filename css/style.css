@@ -167,7 +167,17 @@ a:focus {
 @media (max-width: 991.98px) {
     .top-bar .logo {
         text-align: center;
+    
     }
+
+    .top-bar {
+        padding: 0 60px;
+    }
+
+    .top-bar .top-bar-right {
+        display: none;
+    }
+  
     
     .top-bar .social {
         display: none;
